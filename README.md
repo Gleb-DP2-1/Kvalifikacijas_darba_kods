@@ -1,1 +1,1 @@
-# Kvalifikacijas_darba_kods
+# Kvalifikācijas_darba_kods
